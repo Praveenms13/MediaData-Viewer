@@ -9,7 +9,6 @@ pip install mediadata
 ```
 ```
 Package Link: https://pypi.org/project/mediadata/1.0.4/
-[https://pypi.org/project/mediadata/1.0.4/](https://pypi.org/project/mediadata/1.0.4/)
 ```
 ### Prerequisites :
 
