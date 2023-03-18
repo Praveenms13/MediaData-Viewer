@@ -1,14 +1,17 @@
 ## A simple wrapper for mediainfo tool available as Global PYPI Python Package
 
-#### For Python
-
-#### Prerequisites
+### For Python
 
 Pip Install :
 
 ```
 pip install mediadata
 ```
+```
+Package Link: https://pypi.org/project/mediadata/1.0.4/
+[https://pypi.org/project/mediadata/1.0.4/](https://pypi.org/project/mediadata/1.0.4/)
+```
+### Prerequisites :
 
 This tool needs mediainfo to be installed inorder to work properly.
 
