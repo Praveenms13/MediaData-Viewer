@@ -1,0 +1,33 @@
+Source: mediadata
+Maintainer: None <None>
+Section: python
+Priority: optional
+Build-Depends: python3-setuptools, python3-all, debhelper (>= 9)
+Standards-Version: 3.9.1
+Homepage: https://git.selfmade.ninja/mspraveenkumar77/mediadata_pkg
+
+Package: python3-mediadata
+Architecture: all
+Depends: ${misc:Depends}, ${python3:Depends}
+Description: A wrapper tool for mediainfo tool
+ ## A simple wrapper for mediainfo tool
+ .
+ #### Prerequisites
+ .
+ This tool needs mediainfo to be installed inorder to work properly.
+ .
+ On Ubuntu/Debian:
+ .
+ ```
+ sudo apt install mediainfo
+ ```
+ .
+ On Mac:
+ .
+ ```
+ brew install mediainfo
+ ```
+ .
+ #### Usage
+ .
+

@@ -1,12 +1,3 @@
-Metadata-Version: 2.1
-Name: mediadata
-Version: 1.0.4
-Summary: A wrapper tool for mediainfo tool
-Home-page: https://git.selfmade.ninja/mspraveenkumar77/mediadata_pkg
-Author: Praveen
-Author-email: mspraveenkumar77@gmail.com
-Description-Content-Type: text/markdown
-
 ## A simple wrapper for mediainfo tool
 
 #### Prerequisites
