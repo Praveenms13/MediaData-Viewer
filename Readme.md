@@ -12,18 +12,13 @@ Package Link: https://pypi.org/project/mediadata/1.0.4/
 ```
 ### Prerequisites :
 
-This tool needs mediainfo to be installed inorder to work properly.
+This tool needs&nbsp;<mark>mediainfo</mark>&nbsp;to be installed inorder to work properly.
 
-On Ubuntu/Debian:
+Soon available on Ubuntu/Debian:
 
 ```
 sudo apt install mediainfo
-```
-
-On Mac:
-
-```
-brew install mediainfo
+sudo apt install mediadata
 ```
 
 #### Usage

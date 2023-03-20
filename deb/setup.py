@@ -1,7 +1,15 @@
 from setuptools import setup, find_packages
+import os
 
-with open("mediadata/requirements.txt", "r") as f:
-    required = f.read().splitlines()
+#if there is no requirements.txt file, then it automatically generate it
+# generate requirements.txt
+# os.popen('/usr/local/bin/pipreqs mediadata').read().splitlines()
+# # read requirements.txt
+# with open("mediadata/requirements.txt", "r") as f:
+#     required = f.read().splitlines()
+
+required = os.popen('/usr/local/bin/pipreqs mediadata --print').read().splitlines()
+
 with open("README.md", "r") as fh:
     long_description = fh.read()
 

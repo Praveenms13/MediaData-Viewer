@@ -1,19 +1,24 @@
-## A simple wrapper for mediainfo tool
+## A simple wrapper for mediainfo tool available as Global PYPI Python Package
 
-#### Prerequisites
+### For Python
 
-This tool needs mediainfo to be installed inorder to work properly.
+Pip Install :
 
-On Ubuntu/Debian:
+```
+pip install mediadata
+```
+```
+Package Link: https://pypi.org/project/mediadata/1.0.4/
+```
+### Prerequisites :
+
+This tool needs&nbsp;<mark>mediainfo</mark>&nbsp;to be installed inorder to work properly.
+
+Soon available on Ubuntu/Debian:
 
 ```
 sudo apt install mediainfo
-```
-
-On Mac:
-
-```
-brew install mediainfo
+sudo apt install mediadata
 ```
 
 #### Usage
