@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: mediadata
-Version: 1.0.6
+Version: 1.0.7
 Summary: A wrapper tool for mediainfo tool
 Home-page: https://git.selfmade.ninja/mspraveenkumar77/mediadata_pkg
 Author: Praveen
@@ -17,7 +17,7 @@ Pip Install :
 pip install mediadata
 ```
 ```
-Package Link: https://pypi.org/project/mediadata/1.0.4/
+Package Link: https://pypi.org/project/mediadata/1.0.7/
 ```
 ### Prerequisites :
 

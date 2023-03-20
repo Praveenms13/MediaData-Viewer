@@ -8,7 +8,7 @@ with open("README.md", "r") as fh:
 
 setup(
     name="mediadata",
-    version="1.0.6",
+    version="1.0.7",
     author="Praveen",
     author_email="mspraveenkumar77@gmail.com",
     description="A wrapper tool for mediainfo tool",
